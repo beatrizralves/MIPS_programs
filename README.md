@@ -12,7 +12,7 @@ o resultado num quinto número (V5) em memória RAM. Execute e teste o programa 
 que funciona conforme pretendido. Quantos bytes estão a ser utilizados de modo explícito pela
 memória RAM?
 
-### Solution:
+#### Solution:
 
 https://github.com/beatrizralves/MIPS_programs/blob/main/prog2-1.s
 
@@ -23,7 +23,7 @@ variáveis da RAM sejam agora do tipo half. Registe as instruções teve de alte
 o programa para garantir que funciona conforme pretendido. Quantos bytes estão a ser utilizados
 de modo explícito pela memória RAM?
 
-### Solution:
+#### Solution:
 
 https://github.com/beatrizralves/MIPS_programs/blob/main/prog2-2.s
 
@@ -34,7 +34,7 @@ variáveis da RAM sejam agora do tipo byte. Registe as instruções teve de alte
 o programa para garantir que funciona conforme pretendido. Quantos bytes estão a ser utilizados
 de modo explícito pela memória RAM? 
 
-### Solution:
+#### Solution:
 
 https://github.com/beatrizralves/MIPS_programs/blob/main/prog2-3.s
 
@@ -47,7 +47,7 @@ Execute e teste o programa para garantir que funciona conforme pretendido. Qual 
 somatório? Quantos registos foram necessários? 
 
 
-### Solution:
+#### Solution:
 
 https://github.com/beatrizralves/MIPS_programs/blob/main/prog2-4.s
 
@@ -63,7 +63,7 @@ Tente utilizar novamente um menor número de registos. Execute e teste o program
 que funciona conforme pretendido. Qual o valor do somatório? Quantos registos foram
 necessários? 
 
-### Solution:
+#### Solution:
 
 https://github.com/beatrizralves/MIPS_programs/blob/main/prog2-5.s
 
@@ -76,7 +76,7 @@ mostrar em memória RAM a soma e a subtração dos números x e y.
 Nota: em MIPS pode representar um número hexadecimal pela notação: 0xh onde h é o número
 em hexadecimal. Execute e teste o programa para garantir que funciona conforme pretendido.
 
-### Solution:
+#### Solution:
 
 https://github.com/beatrizralves/MIPS_programs/blob/main/prog2-6.s
 
