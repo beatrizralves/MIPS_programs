@@ -3,7 +3,7 @@ Programs using mips assembly language.
 
 IDE: Notepad++ and QtSpim.
 
-# Program 2.1
+## Program 2.1
 
 Crie um novo programa para o MIPS com o nome “prog2-1.s”, utilizando para tal um editor de
 texto. Neste programa deverá iniciar a memória RAM com as os números V1=1, V2=2, V3=4,
@@ -16,7 +16,7 @@ memória RAM?
 
 https://github.com/beatrizralves/MIPS_programs/blob/main/prog2-1.s
 
-# Program 2.2
+## Program 2.2
 
 Adapte o programa anterior, criando um novo programa “prog2-2.s” de modo que todas as
 variáveis da RAM sejam agora do tipo half. Registe as instruções teve de alterar. Execute e teste
@@ -27,7 +27,7 @@ de modo explícito pela memória RAM?
 
 https://github.com/beatrizralves/MIPS_programs/blob/main/prog2-2.s
 
-# Program 2.3
+## Program 2.3
 
 Adapte o programa anterior, criando um novo programa “prog2-3.s” de modo que todas as
 variáveis da RAM sejam agora do tipo byte. Registe as instruções teve de alterar. Execute e teste
@@ -38,7 +38,7 @@ de modo explícito pela memória RAM?
 
 https://github.com/beatrizralves/MIPS_programs/blob/main/prog2-3.s
 
-# Program 2.4
+## Program 2.4
 
 Crie um novo programa para o MIPS com o nome “prog2-4.s”, que inicialize a memória RAM
 com 9 números do tipo half, com os valores: 1, 2, 3, ... 9. Utilizando o menor número possível
@@ -51,7 +51,7 @@ somatório? Quantos registos foram necessários?
 
 https://github.com/beatrizralves/MIPS_programs/blob/main/prog2-4.s
 
-# Program 2.5
+## Program 2.5
 
 Adapte o programa anterior, criando um novo programa “prog2-5.s” e que não utiliza memória
 RAM, somente registos, sendo que os valores 1, 2, ..., 9 são diretamente carregados ou somados
@@ -67,7 +67,7 @@ necessários?
 
 https://github.com/beatrizralves/MIPS_programs/blob/main/prog2-5.s
 
-# Program 2.6
+## Program 2.6
 
 Considere 2 números em hexadecimal: x=11E16 e y=11216. Utilizando contas de modo manual,
 calcule a soma (x+y) e a subtração (x-y) desses números. Registe os valores obtidos. Crie agora
