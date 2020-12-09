@@ -80,3 +80,19 @@ em hexadecimal. Execute e teste o programa para garantir que funciona conforme p
 
 https://github.com/beatrizralves/MIPS_programs/blob/main/prog2-6.s
 
+## Program 3.1
+
+Procure e estude a sintaxe das operações “mult”, “div”, “mfhi” e “mflo”. Utilize para isso o
+material fornecido na página da disciplina. Crie um novo programa para o MIPS com o nome
+“prog3-1.s”, utilizando para tal um editor de texto. Neste programa, deverá iniciar a memória
+RAM com os números V1=7, V2=2, V3=3, V4=4. Depois o programa deverá calcular os seguintes
+valores: a divisão inteira de V1/V2, valor a guardar no registo $s1; o resto da divisão inteira de
+V1/V2, valor a guardar no registo $s2; e a multiplicação de V3 e V4, valor a guardar no registo
+$s3.
+
+#### Solution:
+
+
+
+
+
