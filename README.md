@@ -92,6 +92,46 @@ $s3.
 
 #### Solution:
 
+https://github.com/beatrizralves/MIPS_programs/blob/main/prog3-1.s
+
+## Program 3.5
+
+Altere o programa "maior_bgt.s"(https://github.com/beatrizralves/MIPS_programs/blob/main/maior_bgts.s). de modo a guardar o valor ‘-1’ em X, caso os números
+sejam iguais. Altere os valores da RAM e execute o programa de modo a surgir o valor ‘-1’ em X. 
+
+#### Solution:
+
+https://github.com/beatrizralves/MIPS_programs/blob/main/prog3_5.s
+
+## Program 3.6
+
+O programa “contar.s”(https://github.com/beatrizralves/MIPS_programs/blob/main/contar.s) executa um ciclo, iterando o registo $s1 de 1 até 10. Carregue o
+programa no QTSpim, execute-o e verifique se faz de facto isso. Altere o programa de forma iterar
+o registo $s1 de 1 até 20. Confirme o comportamento do mesmo executando-o no QTSpim. 
+
+#### Solution:
+
+https://github.com/beatrizralves/MIPS_programs/blob/main/prog%203-6.s
+
+## Program 3.7
+
+ Altere o programa 3.6 de forma a surgir no registo $s7, e durante a execução do
+ciclo, os números ímpares inferiores a 20 (mantenha o ciclo a iterar com incrementos de 1).
+Execute o programa e confirme que no registo $s7 surgem todos números ímpares inferiores a
+20. Confirme se o seu programa termina. 
+
+#### Solution:
+
+https://github.com/beatrizralves/MIPS_programs/blob/main/prog%203-7.s
+
+
+
+
+
+
+
+
+
 
 
 
