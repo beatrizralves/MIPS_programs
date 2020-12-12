@@ -111,7 +111,7 @@ o registo $s1 de 1 até 20. Confirme o comportamento do mesmo executando-o no QT
 
 #### Solution:
 
-https://github.com/beatrizralves/MIPS_programs/blob/main/prog%203-6.s
+https://github.com/beatrizralves/MIPS_programs/blob/main/prog3-6.s
 
 ## Program 3.7
 
@@ -122,7 +122,7 @@ Execute o programa e confirme que no registo $s7 surgem todos números ímpares 
 
 #### Solution:
 
-https://github.com/beatrizralves/MIPS_programs/blob/main/prog%203-7.s
+https://github.com/beatrizralves/MIPS_programs/blob/main/prog3-7.s
 
 ## Program 4.5
 
