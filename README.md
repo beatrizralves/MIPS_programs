@@ -124,15 +124,26 @@ Execute o programa e confirme que no registo $s7 surgem todos números ímpares 
 
 https://github.com/beatrizralves/MIPS_programs/blob/main/prog%203-7.s
 
+## Program 4.5
 
+Programa que apresenta  a soma de dois numeros na consola.
 
+#### Solution:
 
+https://github.com/beatrizralves/MIPS_programs/blob/main/prog4-5.s
 
+## Program 4.6
 
+Programa que pede ao utilizador dois numeros inteiros e faz a sua soma (na consola)
 
+#### Solution:
 
+https://github.com/beatrizralves/MIPS_programs/blob/main/prog4-6.s
 
+## Program 4.9
 
+Programa que escreve na consola os números de 20 até 1. 
 
+#### Solution:
 
-
+https://github.com/beatrizralves/MIPS_programs/blob/main/prog4-9.s
