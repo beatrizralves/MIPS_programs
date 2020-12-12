@@ -140,6 +140,14 @@ Programa que pede ao utilizador dois numeros inteiros e faz a sua soma (na conso
 
 https://github.com/beatrizralves/MIPS_programs/blob/main/prog4-6.s
 
+## Program 4.8
+
+Programa que escreve na consola os números de 1 até ao 20. 
+
+#### Solution:
+
+https://github.com/beatrizralves/MIPS_programs/blob/main/prog4-8.s
+
 ## Program 4.9
 
 Programa que escreve na consola os números de 20 até 1. 
